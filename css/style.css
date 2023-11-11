@@ -1,0 +1,14 @@
+﻿.btm_1 {
+    background-color: #f5f237;
+    color: rgb(131, 213, 0);
+    font-size: 10px;
+    text-align: center;
+    text-decoration: none;
+    /* underline *linha de baixo *overline *linha em cima* e none *sem linha* line* *riscado*/
+    border-radius: 50px;
+    padding: 10px 20px;
+
+}
+
+/* classe de botão 1 com hover*/
+.btm_1:hover {}
